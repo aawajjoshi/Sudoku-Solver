@@ -44,4 +44,3 @@ Following methods are implemented in the SudokuBoard class:
     solve the board starting from a specified position.
 
 
-Remember you are required to have the requisite comment headers in all of your files (in this case SudokuBoard.java).
