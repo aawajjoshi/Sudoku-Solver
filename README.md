@@ -44,7 +44,7 @@ final state of the board must follow certain rules:
 -   `boolean solve(int row, int col)`: The recursive method that will
     solve the board starting from a specified position.
     
-    ## Authors
-    * Aawaj Raj Joshi
+## Authors
+-   Aawaj Raj Joshi
 
 
